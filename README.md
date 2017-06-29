@@ -1,5 +1,5 @@
 # Dijkstras-Algorithm
-Finding the shortest path from source to destination using Dijkstra's Algorithm. In this C++ Standar Template Library is used to implement several data structures which help in doing the task.
+Finding the shortest path from source to destination using Dijkstra's Algorithm. In this C++ Standard Template Library is used to implement several data structures which help in doing the task.
 
 The input to this program should be given as specified in the below link(infact this program is the solution to that question)
 
